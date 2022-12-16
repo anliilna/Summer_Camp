@@ -5,4 +5,4 @@ Ma soeur m'aidera à faire les personnages, décors etc donc je serais la seule 
 
 J'essaierais de faire une cinématique au début du jeu, et introduire tous les personnages assez rapidement pour que le joueur se familiarise ave le contexte de l'histoire (et pour faire la présentation moins longue).  
 
-Je prévois dee faire une classe Personnage,
+Je prévois de faire une classe NPC pour les personnages, player pour le joueur, 
