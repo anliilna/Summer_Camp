@@ -4,3 +4,6 @@ Je continuerais ce jeu sur le long terme, c'est-à-dire le continuer après le l
 Ma soeur m'aidera à faire les personnages, décors etc donc je serais la seule à coder (pour l'instant).  
 
 en premier temps j'essaierais de faire le joueur (déplacements et sprites) faire l'interface en général (seulement des blocks pour commencer), un PNJ
+
+PROCHAINES AMELIORATION:  
+dialogues, images de décors, musique, sound effects, plus de PNJ, écran d'accueuil
